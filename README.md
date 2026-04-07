@@ -26,5 +26,4 @@ GND OLED GND<br>
 Sound demo https://youtu.be/YCTtuJd_oEE<br>
 <br>
 <img src=./images/a.jpg width=600><br>
-<img src=./images/b.jpg width=600><br>
 <img src=./images/c.jpg width=600><br>

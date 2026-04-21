@@ -29,3 +29,7 @@ Sound demo BACH BWV578 https://youtu.be/WstahqAys5A<br>
 <br>
 <img src=./images/a.jpg width=600><br>
 <img src=./images/c.jpg width=600><br>
+
+<img src=./images/photo1.jpg height=600><br>
+<img src=./images/photo2.jpg height=600><br>
+<img src=./images/photo3.jpg height=600><br>

@@ -1,1 +1,1 @@
-Here is an image area
+Images here

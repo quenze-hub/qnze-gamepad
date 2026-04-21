@@ -31,5 +31,8 @@ Sound demo BACH BWV578 https://youtu.be/WstahqAys5A<br>
 <img src=./images/c.jpg width=600><br>
 
 <img src=./images/photo1.jpg height=600><br>
+十字キーのほうが操作性がいい<br>
 <img src=./images/photo2.jpg height=600><br>
+カバーと電池は本体にひっかけるタイプ<br>
 <img src=./images/photo3.jpg height=600><br>
+3層構造になっていて、電池パックは最下部にくっつける<br>

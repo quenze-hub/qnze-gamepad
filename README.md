@@ -7,14 +7,14 @@ qnze-gamepod Arduino nano gamepod &amp; software<br>
 たまたま音が２つ出せたのでスピーカーを２つ使っています。<br>
 電池ボックスもオプションで追加できます。<br>
 
-#必要な部品<br>
+<b>必要な部品</b><br>
 Arduino Nano x1<br>
 ブレッドボードミニ x2<br>
 ミニブレッドボード 25穴タイプ x1<br>
 タクトスイッチ6x6x8 x5<br>
 パッシブブザー12x8.5mm ピッチ6.5mm x2 (ブザーとなっていますがスピーカーです)<br>
 ブレッドボード用ジャンパー線　多数<br>
-
+ケース　3Dプリンタ用のデータがstlフォルダにあります。<br>
 
 <img src=./images/aq-gamepod1_ブレッドボード.jpg height=600><br>
 

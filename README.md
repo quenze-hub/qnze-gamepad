@@ -9,6 +9,7 @@ qnze-gamepod Arduino nano gamepod &amp; software<br>
 
 <b>必要な部品</b><br>
 Arduino Nano x1<br>
+OLED SSD1306 0.96インチ x1<br>
 ブレッドボードミニ x2<br>
 ミニブレッドボード 25穴タイプ x1<br>
 タクトスイッチ6x6x8 x5<br>

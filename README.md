@@ -18,7 +18,8 @@ Arduino Nano x1<br>
 ケース　3Dプリンタ用のデータがstlフォルダにあります。<br>
 <br>
 <img src=./images/aq-gamepod1_ブレッドボード.jpg height=600><br>
-
+(作図ソフトにミニブレッドボード 25穴タイプの部品図がなかったのでブレッドボードミニで代用しています)<br>
+<br>
 接続 <br>
 D8 Speaker1<br>
 D9 Speaker2<br>

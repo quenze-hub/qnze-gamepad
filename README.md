@@ -26,14 +26,16 @@ GND OLED GND<br>
 ２つの音が同時に出ています。<br>
 Sound demo https://youtu.be/YCTtuJd_oEE<br>
 Sound demo BACH BWV578 https://youtu.be/WstahqAys5A<br>
-tetoris https://youtu.be/a2FQSlDUryo<br>
+テトリス https://youtu.be/a2FQSlDUryo<br>
+インベーダー https://youtu.be/MdoJukn5BSs<br>
+
 <br>
 <img src=./images/a.jpg width=600><br>
 <img src=./images/c.jpg width=600><br>
 
 <img src=./images/photo1.jpg width=600><br>
-十字キーのほうが操作性がいい<br>
+十字キーのほうが操作性がいいです<br>
 <img src=./images/photo2.jpg width=600><br>
 カバーと電池は本体にひっかけるタイプ<br>
 <img src=./images/photo3.jpg width=600><br>
-3層構造になっていて、電池パックは最下部にくっつける<br>
+3層構造になっていて、電池パックは最下部にくっつけます<br>

@@ -1,5 +1,5 @@
 # qnze-gamepad
-Arduino gamepod
+Arduino Nano based gamepod<br>
 
 qnze-gamepod Arduino nano gamepod &amp; software<br>
 できるだけハンダつけ作業をつけしなくてもいいようにブレッドボードを使っています。<br>

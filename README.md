@@ -37,7 +37,9 @@ GND OLED GND<br>
 ２つの音が同時に出ています。<br>
 Sound demo https://youtu.be/YCTtuJd_oEE<br>
 Sound demo BACH BWV578 https://youtu.be/WstahqAys5A<br>
+<img src=./images/teto.jpg width=300><br>
 テトリス https://youtu.be/a2FQSlDUryo<br>
+<img src=./images/inv.jpg width=300><br>
 インベーダー https://youtu.be/MdoJukn5BSs<br>
 
 <br>

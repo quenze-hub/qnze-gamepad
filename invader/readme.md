@@ -1,10 +1,10 @@
-インストール方法
-
+<b>インストール方法</b><br>
+<br>
 複数のファイルがあるので、すべてダウンロードしてください。<br>
 inoファイルを開いてください。<br>
-<img src=./images/tuika.jpg width=300><br>
+<img src=../images/tuika.jpg width=300><br>
 スケッチ＞ファイルの追加　からすべてのファイルを追加してください。<br>
-<img src=./images/header.jpg width=300><br>
+<img src=../images/header.jpg width=300><br>
 保存してコンパイルしてください。<br>
 
 

@@ -2,9 +2,9 @@
 <br>
 複数のファイルがあるので、すべてダウンロードしてください。<br>
 inoファイルを開いてください。<br>
-<img src=../images/tuika.jpg ><br>
+<img src=../images/tuika2.jpg ><br>
 スケッチ＞ファイルの追加　からすべてのファイルを追加してください。<br>
-<img src=../images/header.jpg ><br>
+<img src=../images/header2.jpg ><br>
 保存してコンパイルしてください。<br>
 
 

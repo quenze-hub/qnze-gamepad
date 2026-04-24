@@ -3,9 +3,9 @@
 複数のファイルがあるので、すべてダウンロードしてください。<br>
 inoファイルを開いてください。<br>
 <br>
+スケッチ＞ファイルの追加　から.cpp .h のすべてのファイルを追加してください。<br>
 <img src=../images/tuika2.jpg ><br>
-スケッチ＞ファイルの追加　からすべてのファイルを追加してください。<br>
-<img src=../images/tuika2.jpg ><br>
+<br>
 保存してコンパイルしてください。<br>
 <img src=../images/header2.jpg ><br>
 
